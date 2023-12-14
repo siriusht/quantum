@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebRTC NetEQ"
+title: "WebRTC NetEQ"
 date: 2023-12-14
 ---
 
