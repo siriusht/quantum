@@ -10,4 +10,4 @@ Hello, world! This is my personal blog where I'll be sharing my thoughts, experi
 
 ## Latest Posts
 
-- [Post Title 1](/posts/post1) - A brief summary of the first blog post.
+- [Post Title 1](/posts) - A brief summary of the first blog post.
