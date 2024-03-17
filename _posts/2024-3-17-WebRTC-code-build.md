@@ -15,7 +15,7 @@ For Windows platform, WebRTC does not support MSVC compiler by default, please u
 If you build with Visual Studio 2022(MSVC), many strange compile errors occur.
 
 ```
-$ gn gen out/x64 "--args=target_os=\"win\" target_cpu=\"x64\" is_debug=true treat_warnings_as_errors=false rtc_include_tests=true apm_debug_dump=true"
+$ gn gen out/x64 "--args=target_os=\"win\" target_cpu=\"x64\" is_debug=true treat_warnings_as_errors=false"
 $ autoninja -C out/x64
 ```
 
